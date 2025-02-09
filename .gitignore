@@ -1,0 +1,8 @@
+*.log
+*.tmp
+node_modules/
+dist/
+*.swp
+index_old.html
+article_en.html
+article_ar.html
