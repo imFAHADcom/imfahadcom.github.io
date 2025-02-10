@@ -150,6 +150,14 @@ body.index-page main {
     width: 100%; /* لجعل العنصر يأخذ العرض الكامل */
 }
 
+/*تنسيق زر اللغه وزر RSS*/
+.rss-language-button,
+
+.rss-language-button a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #333;
+}
 
 /* تنسيق خاص بزر اللغة */
 .language-links,
