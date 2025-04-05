@@ -5,8 +5,8 @@
         <description>A personal blog that talks about programming, travel, surfing, documentaries, books, and golf.</description>
         <link>https://www.imfahad.com/blog_en.html</link>
         <atom:link href="https://www.imfahad.com/rss_en.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 09 Feb 2025 12:00:00 GMT</lastBuildDate>
-        <pubDate>Sun, 09 Feb 2025 12:00:00 GMT</pubDate>
+        <lastBuildDate>Sat, 05 April 2025 12:00:00 GMT</lastBuildDate>
+        <pubDate>Sat, 05 April 2025 12:00:00 GMT</pubDate>
         <language>en</language>
 
         <item>
@@ -15,6 +15,16 @@
             <link>https://www.imfahad.com/articles/english/the_wealthiest_countries_expel_their_poor_2025-02-09.html</link>
             <guid isPermaLink="true">https://www.imfahad.com/articles/english/the_wealthiest_countries_expel_their_poor_2025-02-09.html</guid>
             <pubDate>Sun, 09 Feb 2025 12:00:00 GMT</pubDate>
+        </item>
+
+
+
+        <item>
+            <title>Learning to Use the Internet</title>
+            <description>This article discusses the problem of improper internet use.</description>
+            <link>https://www.imfahad.com/articles/english/learning_to_use_the_internet_2025-04-05.html</link>
+            <guid isPermaLink="true">https://www.imfahad.com/articles/english/learning_to_use_the_internet_2025-04-05.html</guid>
+            <pubDate>Sat, 05 April 2025 12:00:00 GMT</pubDate>
         </item>
 
     </channel>

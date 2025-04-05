@@ -5,8 +5,8 @@
         <description>مدونة شخصية تتحدث عن البرمجة، السفر، رياضة ركوب الأمواج,الأفلام الوثائقية,الكتب,رياضة الغولف.</description>
         <link>https://www.imfahad.com/blog_ar.html</link>
         <atom:link href="https://www.imfahad.com/rss_ar.xml" rel="self" type="application/rss+xml" />  
-        <lastBuildDate>Sun, 09 Feb 2025 12:00:00 GMT</lastBuildDate>
-        <pubDate>Sun, 09 Feb 2025 12:00:00 GMT</pubDate>
+        <lastBuildDate>Sat, 05 April 2025 12:00:00 GMT</lastBuildDate>
+        <pubDate>Sat, 05 April 2025 12:00:00 GMT</pubDate>
         <language>ar</language>
 
         <item>
@@ -15,6 +15,14 @@
             <link>https://www.imfahad.com/articles/arabic/%D8%A3%D8%BA%D9%86%D8%A6-%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%AA%D8%B7%D8%B1%D8%AF-%D9%81%D9%82%D8%B1%D8%A7%D8%A1%D9%87%D8%A7_2025-02-09.html</link>
             <guid isPermaLink="true">https://www.imfahad.com/articles/arabic/%D8%A3%D8%BA%D9%86%D8%A6-%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%AA%D8%B7%D8%B1%D8%AF-%D9%81%D9%82%D8%B1%D8%A7%D8%A1%D9%87%D8%A7_2025-02-09.html</guid> <pubDate>Sun, 09 Feb 2025 12:00:00 GMT</pubDate>
         </item>
+
+        <item>
+            <title>تعلم استخدام الإنترنت</title>
+            <description>هذا المقال يطرح مشكلة استخدام الإنترنت بشكل خاطئ.</description>
+            <link>https://www.imfahad.com/articles/arabic/تعلم استخدام الإنترنت_2025-04-05.html</link>
+            <guid isPermaLink="true">https://www.imfahad.com/articles/arabic/تعلم استخدام الإنترنت_2025-04-05.html</guid> <pubDate>Sat, 05 Apr 2025 12:00:00 GMT</pubDate>
+        </item>
+
 
     </channel>
 </rss>
